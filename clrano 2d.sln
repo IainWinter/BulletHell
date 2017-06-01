@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B14F0F30-2477-1066-C8B7-5DE9D1A639AA}") = "clrano 2d", "Assembly-CSharp.csproj", "{09302BAF-CDCC-0EEC-5852-C2FE320910AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09302BAF-CDCC-0EEC-5852-C2FE320910AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09302BAF-CDCC-0EEC-5852-C2FE320910AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09302BAF-CDCC-0EEC-5852-C2FE320910AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09302BAF-CDCC-0EEC-5852-C2FE320910AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
